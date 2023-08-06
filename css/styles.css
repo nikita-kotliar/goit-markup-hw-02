@@ -12,10 +12,6 @@ header {
     height: 72px;
 }
 
-.logo-span {
-    color: #2e2f42;
-}
-
 h2, h3 {
     color: #2E2F42;
 }
@@ -32,6 +28,10 @@ nav a {
     letter-spacing: 0.03em;
     line-height: 1.17;
     text-transform: uppercase;
+}
+
+.nav-logo-span {
+    color: #2e2f42;
 }
 
 nav ul {
@@ -91,13 +91,13 @@ address {
     cursor: pointer
 }
 
-.section1 button:hover, a:focus {
+.section1 button:hover, button:focus {
     background-color: #404BBF;
 }
 
 /* секція 2 */
 
-.section2 h2{
+.section2 h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -108,4 +108,88 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px
+}
+
+/* секція 3 */
+
+.section3 {
+    background-color: #F4F4FD;
+}
+
+.section3 h2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.section3 li {
+    background-color: #FFFFFF;
+}
+
+.section3 h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.section3 p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* секція 4 */
+
+.section4 h2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.section4 img {
+    width: 360;
+}
+
+.section4 h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.section4 p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* футер */
+
+footer {
+    background-color: #2e2f42;
+}
+
+.footer-logo {
+    color: #4d5ae5;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+    text-transform: uppercase;
+}
+
+.footer-logo-span {
+    color: #f4f4fd;
+}
+
+footer p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;;
 }
