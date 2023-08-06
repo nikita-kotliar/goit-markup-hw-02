@@ -68,11 +68,11 @@ address {
 
 /* секція 1 */
 
-.section1 {
+.section-one {
     background-color: #2e2f42;
 }
 
-.section1 h1 {
+.section-one h1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -80,7 +80,7 @@ address {
     color: #ffffff;
 }
 
-.section1 button {
+.section-one button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -91,20 +91,20 @@ address {
     cursor: pointer
 }
 
-.section1 button:hover, button:focus {
+.section-one button:hover, button:focus {
     background-color: #404BBF;
 }
 
 /* секція 2 */
 
-.section2 h3{
+.section-twoo h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
-.section2 p {
+.section-twoo p {
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px
@@ -112,11 +112,11 @@ address {
 
 /* секція 3 */
 
-.section3 {
+.section-three {
     background-color: #F4F4FD;
 }
 
-.section3 h2 {
+.section-three h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -124,26 +124,26 @@ address {
     text-transform: capitalize;
 }
 
-.section3 li {
+.section-three li {
     background-color: #FFFFFF;
 }
 
-.section3 h3 {
+.section-three h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
-.section3 p {
-    font-size: 16px;
+.section-three p {
+    font-size: 13px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
 /* секція 4 */
 
-.section4 h2 {
+.section-four h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -151,14 +151,14 @@ address {
     text-transform: capitalize;
 }
 
-.section4 h3 {
+.section-four h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
-.section4 p {
+.section-four p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
