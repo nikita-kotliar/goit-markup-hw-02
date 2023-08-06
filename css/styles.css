@@ -1,0 +1,50 @@
+body {
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    height: 72px;
+}
+
+.logo-span {
+    color: #4D5AE5;
+}
+
+h2, h3 {
+    color: #2E2F42;
+}
+
+nav a {
+    color: #2E2F42;
+}
+
+.nav-logo {
+    font-family: Raleway;
+    width: 700;
+    font-size: 18px;
+    letter-spacing: 3%;
+    line-height: 21px;
+}
+
+nav ul {
+    font-family: Roboto;
+    width: 500;
+    font-size: 16px;
+    letter-spacing: 2%;
+    line-height: 24px;
+    list-style: none;
+}
+
+address ul {
+    font-family: Roboto;
+    width: 400;
+    font-size: 16px;
+    letter-spacing: 2%;
+    line-height: 24px;
+    list-style: none;
+    color: #434455;
+}
