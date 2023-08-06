@@ -1,5 +1,7 @@
 body {
-    
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 a {
@@ -23,7 +25,7 @@ nav a {
 }
 
 .nav-logo {
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     width: 700;
     font-size: 18px;
     letter-spacing: 3%;
@@ -31,7 +33,7 @@ nav a {
 }
 
 nav ul {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     width: 500;
     font-size: 16px;
     letter-spacing: 2%;
